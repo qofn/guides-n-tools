@@ -10,52 +10,52 @@
 
 -------------------------------------------------------------
 
-TOOLS:
+🧰 ᴛᴏᴏʟꜱ ᴀɴᴅ ᴀᴘᴘꜱ 🧰
 
-TCP Optimizer : https://www.speedguide.net/downloads.php
+*TCP Optimizer : https://www.speedguide.net/downloads.php*
 
-NVCleaninstall : https://www.techpowerup.com/download/techpowerup-nvcleanstall/
+*NVCleaninstall : https://www.techpowerup.com/download/techpowerup-nvcleanstall/*
 
-MSI AfterBurner : https://www.msi.com/Landing/afterburner/graphics-cards
+*MSI AfterBurner : https://www.msi.com/Landing/afterburner/graphics-cards*
 
-WinUtil (ChrisTitusTech Tool) : https://github.com/ChrisTitusTech/winutil
+*WinUtil (ChrisTitusTech Tool) : https://github.com/ChrisTitusTech/winutil*
 
-LatencyMON (testing) : https://www.resplendence.com/latencymon
+*LatencyMON (testing) : https://www.resplendence.com/latencymon*
 
-RevoUninstall : https://www.revouninstaller.com/
+*RevoUninstall : https://www.revouninstaller.com/*
 
-Revo Registru Cleaner: https://www.revouninstaller.com/products/revo-registry-cleaner-free/
+*Revo Registru Cleaner: https://www.revouninstaller.com/products/revo-registry-cleaner-free/*
 
-Process Lasso : https://www.revouninstaller.com/products/revo-registry-cleaner-free/
+*Process Lasso : https://www.revouninstaller.com/products/revo-registry-cleaner-free/*
 
-Display Driver Unistaller : https://www.guru3d.com/download/display-driver-uninstaller-download/
+*Display Driver Unistaller : https://www.guru3d.com/download/display-driver-uninstaller-download/*
 
-NVIDEA Profile Inspector : https://github.com/Orbmu2k/nvidiaProfileInspector/releases
+*NVIDEA Profile Inspector : https://github.com/Orbmu2k/nvidiaProfileInspector/releases*
 
-Vibrance GUI: https://vibrancegui.com/
+*Vibrance GUI: https://vibrancegui.com/*
 
-Rivatuner Statistic Server (RTSS): https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/
+*Rivatuner Statistic Server (RTSS): https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/*
 
-HW Info: https://www.hwinfo.com/download/
+*HW Info: https://www.hwinfo.com/download/*
 
-Autoruns: https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+*Autoruns: https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns*
 
-Park Control: https://bitsum.com/parkcontrol/
+*Park Control: https://bitsum.com/parkcontrol/*
 
-#=================================================#
+---------------------------------------------------------------
 
-Security Tools I Use:
+⚠️ ꜱᴇᴄᴜʀɪᴛʏ ⚠️
 
-Norton Power Eraser: https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN
+*Norton Power Eraser: https://support.norton.com/sp/en/us/home/current/solutions/kb20100824120155EN*
 
-Hitman Pro: https://www.hitmanpro.com/en-us/whats-new/hitmanpro
+*Hitman Pro: https://www.hitmanpro.com/en-us/whats-new/hitmanpro*
 
-#=================================================#
+------------------------------------------------------------------
 
-Controller Stuff:
+🎮 ᴄᴏɴᴛʀᴏʟʟᴇʀ ꜱᴛᴜꜰꜰ 🎮
 
-OC Controller/HIDUSBF : https://github.com/LordOfMice/hidusbf
+*OC Controller/HIDUSBF : https://github.com/LordOfMice/hidusbf*
 
-TESTING APPS: https://gamepadla.com/soft.pdl
+*TESTING APPS: https://gamepadla.com/soft.pdl*
 
-#=================================================#
+------------------------------------------
