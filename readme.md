@@ -2,9 +2,7 @@
 
 📚 ʙʟᴏɢ/ᴋɴᴏᴡʟᴇᴅɢᴇ ʙᴀꜱᴇ/ᴀʀᴄʜɪᴠᴇ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ᴜꜱᴇꜰᴜʟʟ ᴏᴘᴛɪᴍɪᴢᴀᴛᴏɴꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ꜰᴏʀ ᴅᴇꜱᴋᴛᴏᴘꜱ ᴀɴᴅ ʟᴀᴘᴛᴏᴘꜱ 📚
 
- https://n1kobg.blogspot.com
- https://n1kobg.blogspot.com/p/blog-page.html
- https://n1kobg.blogspot.com/p/blog-page_23.html
+ - https://n1kobg.blogspot.com
 
 ![giphyw](https://github.com/user-attachments/assets/dcdcc954-1399-463a-a83c-0312d44f21ef)
 
