@@ -9,7 +9,7 @@
 : https://n1kobg.blogspot.com/p/blog-page.html
 : https://n1kobg.blogspot.com/p/blog-page_23.html
 
-#=================================================#
+-------------------------------------------------------------
 
 TOOLS:
 
