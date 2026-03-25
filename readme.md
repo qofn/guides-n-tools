@@ -1,4 +1,5 @@
 <![giphy11](https://github.com/user-attachments/assets/12f2a53b-14cf-4481-810d-a0429c583a70)
+
 a href='https://ko-fi.com/F1F61V3VOV' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 📚 ʙʟᴏɢ/ᴋɴᴏᴡʟᴇᴅɢᴇ ʙᴀꜱᴇ/ᴀʀᴄʜɪᴠᴇ ꜰɪʟʟᴇᴅ ᴡɪᴛʜ ᴜꜱᴇꜰᴜʟʟ ᴏᴘᴛɪᴍɪᴢᴀᴛᴏɴꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ ꜰᴏʀ ᴅᴇꜱᴋᴛᴏᴘꜱ ᴀɴᴅ ʟᴀᴘᴛᴏᴘꜱ 📚
